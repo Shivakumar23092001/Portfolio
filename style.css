@@ -1,4 +1,4 @@
-body{
+form{
     background-color: rgb(77, 131, 149);
     margin: 0 auto;
     padding: 20px;
@@ -20,14 +20,14 @@ img {
     width: 150px;
     height: 150px;
     padding: 5px;
-    border-radius: 10px;
+    border-radius: 20px;
 
 }
 form {
     margin-top: 20px;
     border: 2px solid #888;
     padding: 15px;
-    background-color: #f9f9f9;
+    background-color: rgba(168,190,199,0.973);
     border-radius: 10px;
 }
 input, textarea {
@@ -45,6 +45,19 @@ button {
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    text-align: center;
+}
+button1 {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+p{
+    text-align: center;
 }
 
 button:hover {
