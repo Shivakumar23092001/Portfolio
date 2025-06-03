@@ -21,5 +21,4 @@ This is a basic profile webpage created using HTML, CSS, and JavaScript.
 2. Fill the form and click the "Say Hello" button to see JS interaction.
 
 ## 👀 Screenshot:
-
-![Screenshot 2025-06-02 212643](https://github.com/user-attachments/assets/8080fee8-8f2c-41e9-95d7-8816d2ca3af9)
+![Screenshot 2025-06-03 124510](https://github.com/user-attachments/assets/97777910-696a-4ac6-aaf9-9120578c7ad3)
